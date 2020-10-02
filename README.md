@@ -1,2 +1,2 @@
-# Skeletal
-A C# based project Skeletal code for getting shellcodes!
+# Skeletal Code 
+A C based Skeletal code for  shellcodes!
